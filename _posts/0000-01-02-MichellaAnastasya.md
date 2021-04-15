@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"loat like a butterfly, sting like a bee" - Muhammad Ali 
+"Float like a butterfly, sting like a bee" - Muhammad Ali 
 Use the left arrow to go back!
 Did u ever see a gondala?!
